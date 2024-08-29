@@ -6,8 +6,10 @@ JokesApplication is a simple Android application designed to fetch and display j
 
 The following images showcase the Home Screen and Quote Display Screen of the app:
 
-<p align="center">
 
+<p align="center">
+  <img src="https://github.com/bhuwanmalla/Jokes-Application/blob/main/DatafromDB.png" alt="Home Screen" width="45%" style="margin-right: 10px;">
+  <img src="https://github.com/bhuwanmalla/Jokes-Application/blob/main/Joke.png" alt="Quote Display Screen" width="45%">
 </p>
 
 ## Features
