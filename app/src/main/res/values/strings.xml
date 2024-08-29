@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Joke Application</string>
+    <string name="app_name">Joke</string>
     <string name="joke">Next Joke</string>
     <string name="bhuwan">Jokes</string>
 </resources>
