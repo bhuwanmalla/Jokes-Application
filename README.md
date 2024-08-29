@@ -32,4 +32,4 @@ The following images showcase the Home Screen and Quote Display Screen of the ap
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/bhuwanmalla/JokesApplication.git
+   git clone https://github.com/bhuwanmalla/Jokes-Application.git
