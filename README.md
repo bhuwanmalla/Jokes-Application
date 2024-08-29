@@ -8,8 +8,8 @@ The following images showcase the Home Screen and Quote Display Screen of the ap
 
 
 <p align="center">
-  <img src="https://github.com/bhuwanmalla/Jokes-Application/blob/main/DatafromDB.png" alt="Home Screen" width="45%" style="margin-right: 10px;">
-  <img src="https://github.com/bhuwanmalla/Jokes-Application/blob/main/Joke.png" alt="Quote Display Screen" width="45%">
+  <img src="https://github.com/bhuwanmalla/Jokes-Application/blob/main/Joke.png" alt="Home Screen" width="45%" style="margin-right: 10px;">
+  <img src="https://github.com/bhuwanmalla/Jokes-Application/blob/main/DatafromDB.png" alt="Quote Display Screen" width="45%">
 </p>
 
 ## Features
