@@ -26,3 +26,10 @@ The following images showcase the Home Screen and Quote Display Screen of the ap
 - Dependency Injection: Hilt-Dagger
 - Networking: Retrofit (for API calls)
 - Local Storage: Room (for offline caching)
+
+
+## Setup and Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/bhuwanmalla/JokesApplication.git
